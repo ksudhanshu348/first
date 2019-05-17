@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="book.css"?>
+<books>
+ <heading>Whether report </heading>
+ <Bhagalpur>
+ <title>Bhagalpur</title>
+ <author>Temp-30F</author>
+ <publisher>partly cloudly</publisher>
+ <edition>preciption:0%</edition>
+ <price>Humidity:66%</price>
+ <wind>Wind:8mph</wind>
+ </Bhagalpur>
+ <Patna>
+ <title>Patna</title>
+ <author>Temp:-83F</author>
+ <publisher>Haze</publisher>
+ <edition>precipittion: 1%</edition>
+ <price>Humidity: 57%</price>
+ <wind>Wind: 6 mph</wind>
+ </Patna>
+ <kolkata>
+ <title>Kolkata</title>
+ <author>temp:-89F</author>
+ <publisher>Haze</publisher>
+ <edition>precipitation:- 53%</edition>
+ <price>Humidity:- 61%</price>
+ <wind>Wind:- 6mph S-W</wind>
+ </book>
+</books> 
